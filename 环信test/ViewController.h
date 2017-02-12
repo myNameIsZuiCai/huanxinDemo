@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "EMSDK.h"
 @interface ViewController : UIViewController
 
 
